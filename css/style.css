@@ -1,0 +1,189 @@
+.p-4{
+    color: #0087ea;
+    font-weight: 700;
+}
+.text-1{
+    margin-left: 52%;
+    margin-top: -70px;
+}
+.fm-2{
+    opacity: 75%;
+    font-size: 65%;
+}
+.img-1{
+    margin-left: 110vh;
+}
+.text-2{
+    margin: 15%;
+    text-align: justify;
+    font-size: 150%;
+}
+.text-3{
+    color: #0087ea;
+    margin-top: 50px;
+}
+.fw-light{
+    font-size: 10px;
+    opacity: 50%;
+    margin-top: 10px;
+}
+.text-4{
+    font-size: 250%;
+}
+.text-5{
+    opacity: 70%;
+}
+.company-content {
+    justify-content: center;
+    margin-top: -20px;
+}
+.img-5{
+    width: 100%;
+}
+.text-6{
+   font-size: 75%;
+   margin-left: 67%;
+   top: 260px;
+}
+.text-7{
+   font-family: Gilroy;
+   font-size: 24px;
+   font-weight: 700;
+   color: #0087ea;
+}
+.fm-1{
+    opacity: 55%;
+}
+.d-flex{
+    gap: 10px;
+}
+.text-8{
+    font-family: Gilroy;
+    text-decoration: line-through;
+    font-size: 24px;
+    line-height: 24px;
+    padding-top: 5px;
+    opacity: 85%;
+}
+.img{
+    top: 330px;
+    margin-left: 12%;
+    gap: 15px;
+}
+.img-10{
+    padding: 10%;
+    margin-top: 17%;
+}
+.img-11{
+    margin-left: -14%;
+    margin-top: 30%;
+}
+.text-9{
+    margin-top: 39%;
+    margin-left: 50%;
+}
+.text-10{
+    color: #0087ea;
+}
+.text-11{
+    font-weight: 800;
+    font-size: 220%;
+    margin-top: -10px;
+}
+.text-12{
+    opacity: 70%;
+}
+.color{
+    background: #F7F8FA;
+    padding: 3%;
+}
+.img-12{
+    margin: 20px;
+    margin-left: 38%;
+}
+.ds:hover{
+    transform: scale(1.2);
+}
+.fm-3{
+    margin-left: 15%;
+    gap: 50px;
+}
+.background-color{
+    background-color: #0087ea;
+    padding: 5%;
+}
+.fm-4{
+    color: #F7F8FA;
+}
+.border-0{
+    gap: 40px;
+}
+.sd:hover{
+    transform: scale(1.5);
+}
+.img-19{
+    gap: 50px;
+    margin-left: 11%;
+}
+.img-23{
+    margin-top: 7%;
+    width: 1519px;
+    height: 618px;
+    filter: contrast(0.4);
+}
+.fm-5{
+    margin-top: -30%;
+    color: #F7F8FA;
+}
+.img-24{
+    padding: 3%;
+    margin-left: 9%;
+}
+.fm-6{
+    margin-top: 7%;
+}
+.fm-7{
+    margin-left: 520px;
+    margin-top: -2%;
+}
+.text-13{
+    color: #0087ea;
+}
+.karta{
+    text-align: end;
+    margin-top: 8%;
+    background-color: #0087ea;
+}
+.text-14{  
+    margin-top: -19%; 
+    margin-left: 16%; 
+}
+.text-15{
+    color: #F7F8FA;
+    opacity: 60%;
+}
+.twitter{
+    top: 9px;
+    margin-left: 72px;
+}
+.facebook{
+    top: 9px;
+    margin-left: 14px;
+}
+.instagram{
+    top: 9px;
+}
+.in{
+    top: 9px;
+    margin-left: 194px;
+}
+.icons{
+    padding-left: 42%;
+    margin-top: 10%;
+}
+.pm-1{
+    gap: 50px;
+    padding: 2%;
+    margin-left: 33%;
+}
+
