@@ -105,7 +105,7 @@
     transform: scale(1.2);
 }
 .fm-3{
-    margin-left: 15%;
+    justify-content: center;
     gap: 50px;
 }
 .background-color{
@@ -117,13 +117,14 @@
 }
 .border-0{
     gap: 40px;
+    justify-content: center;
 }
 .sd:hover{
     transform: scale(1.5);
 }
 .img-19{
     gap: 50px;
-    margin-left: 11%;
+    justify-content: center;
 }
 .img-23{
     margin-top: 7%;
@@ -136,8 +137,9 @@
     color: #F7F8FA;
 }
 .img-24{
-    padding: 3%;
-    margin-left: 9%;
+    justify-content: center;
+    margin-top: 5%;
+    gap: 40px;
 }
 .fm-6{
     margin-top: 7%;
@@ -164,26 +166,27 @@
 }
 .twitter{
     top: 9px;
-    margin-left: 72px;
+    margin-left: -4%;
 }
 .facebook{
     top: 9px;
-    margin-left: 14px;
+    margin-left: -12%;
 }
 .instagram{
     top: 9px;
+    margin-left: 4%;
 }
 .in{
     top: 9px;
-    margin-left: 194px;
+    margin-left: 180px;
 }
 .icons{
-    padding-left: 42%;
+    justify-content: center;
     margin-top: 10%;
 }
 .pm-1{
     gap: 50px;
     padding: 2%;
-    margin-left: 33%;
+    justify-content: center;
 }
 
