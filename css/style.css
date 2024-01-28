@@ -39,11 +39,12 @@
 }
 .img-5{
     width: 100%;
+    margin-top: 8%;
 }
 .text-6{
    font-size: 75%;
    margin-left: 67%;
-   top: 260px;
+   top: 380px;
 }
 .text-7{
    font-family: Gilroy;
@@ -66,20 +67,20 @@
     opacity: 85%;
 }
 .img{
-    top: 330px;
+    top: 430px;
     margin-left: 12%;
     gap: 15px;
 }
 .img-10{
     padding: 10%;
-    margin-top: 17%;
+    margin-top: 30%;
 }
 .img-11{
     margin-left: -14%;
     margin-top: 30%;
 }
 .text-9{
-    margin-top: 39%;
+    margin-top: 53%;
     margin-left: 50%;
 }
 .text-10{
