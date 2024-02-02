@@ -167,19 +167,19 @@
 }
 .twitter{
     top: 9px;
-    margin-left: -4%;
+    margin-left: -48px;
 }
 .facebook{
     top: 9px;
-    margin-left: -12%;
+    margin-left: -245px;
 }
 .instagram{
     top: 9px;
-    margin-left: 4%;
+    margin-left: -40px;
 }
 .in{
     top: 9px;
-    margin-left: 180px;
+    margin-left: -8vh;
 }
 .icons{
     justify-content: center;
