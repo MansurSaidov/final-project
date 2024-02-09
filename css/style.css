@@ -2,6 +2,11 @@
     color: #0087ea;
     font-weight: 700;
 }
+
+.table-hover:hover{
+    color: blue;
+}
+
 .text-1{
     margin-left: 52%;
     margin-top: -70px;
